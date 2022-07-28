@@ -4,6 +4,9 @@
 ## Learning How to learn
 - [You Can Learn Anything](https://www.youtube.com/watch?v=beSsSAUf-oc)
 - [How to grow your brain](https://www.youtube.com/watch?v=GWSZ1DKjNzY)
+- [The Growth Mindset](https://www.youtube.com/watch?v=wh0OS4MrN3E)
+- [Developing Growth Mindset with Carol Dweck](https://www.youtube.com/watch?v=hiiEeMN7vbQ)
+- [The power of believing that you can improve | Carol Dweck](https://www.youtube.com/watch?v=_X0mgOOSpLU)
 
 ## Learning How to Learn
 Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?v=YFUIPg8P2sY&t=332s)
