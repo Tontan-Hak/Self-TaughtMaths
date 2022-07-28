@@ -25,7 +25,8 @@
 - [Better Explained](https://betterexplained.com/)
 
 ## Course recommended 
-
+- [Learning How to learn (Part 1)](https://www.coursera.org/learn/learning-how-to-learn/home/week/1) | [Part 2](https://www.coursera.org/learn/learning-how-to-learn-youth/home/week/1) | [Part 3](https://www.coursera.org/programs/placeholder-gzyqu/browse?productId=XDJWC7ZqEeaa7BLnmaLUtg&productType=course&query=Learning+how+to+learn&showMiniModal=true&source=search)
+- [How to learn math: For students](https://learning.edx.org/course/course-v1:StanfordOnline+GSE-YEDUC115-S+1T2020/home)
 
 ## License 
 
