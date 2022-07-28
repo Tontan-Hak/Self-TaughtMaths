@@ -20,9 +20,9 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 - [Feynman on teaching Physics South-American](http://calteches.library.caltech.edu/46/2/LatinAmerica.htm?fbclid=IwAR2HFl_FrR-9hbecND_2lbHd1O2uL8n2yO39pmC2VKLA1ORLEW-fd7-eyjk) 
 
 ## Algebra
-- [x]  [ពិជគណិតកម្រិតទី-១](https://www.youtube.com/playlist?list=PLSQl0a2vh4HDdl6PcjwZH2CkM5OoV6spg) 
-- [x]  [ពិជគណិតកម្រិតទី-២](https://www.youtube.com/playlist?list=PLSQl0a2vh4HCI6_FsC0_7Us0IwsZHQ7Tu)
-- [x]  [Algebra](https://www.youtube.com/watch?v=LwCRRUa8yTU&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v&index=1)
+- [x]  [Algebra 1](https://www.youtube.com/playlist?list=PLSQl0a2vh4HDdl6PcjwZH2CkM5OoV6spg) 
+- [x]  [Algebra 2](https://www.youtube.com/playlist?list=PLSQl0a2vh4HCI6_FsC0_7Us0IwsZHQ7Tu)
+- [x]  [College Algebra](https://www.youtube.com/watch?v=LwCRRUa8yTU&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v&index=1)
 ## Calculus
    * [Calculus 1](https://www.youtube.com/watch?v=HfACrKJ_Y2w)
    * [Calculus 2](https://www.youtube.com/watch?v=7gigNsz4Oe8&list=RDLVHfACrKJ_Y2w&index=2)
