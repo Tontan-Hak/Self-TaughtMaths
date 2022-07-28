@@ -1,16 +1,16 @@
-# Introduction 
+# ⏳ Introduction 
 ![](https://komarev.com/ghpvc/?username=Self-Study-Maths&color=brightgreen&label=VISITORS)
 
-## Learning How to learn
-- [You Can Learn Anything](https://www.youtube.com/watch?v=beSsSAUf-oc)
-- [How to grow your brain](https://www.youtube.com/watch?v=GWSZ1DKjNzY)
-- [The Growth Mindset](https://www.youtube.com/watch?v=wh0OS4MrN3E)
-- [Developing Growth Mindset with Carol Dweck](https://www.youtube.com/watch?v=hiiEeMN7vbQ)
-- [The power of believing that you can improve | Carol Dweck](https://www.youtube.com/watch?v=_X0mgOOSpLU)
+## 🚀 Learning How to learn
+- [🎥 You Can Learn Anything](https://www.youtube.com/watch?v=beSsSAUf-oc)
+- [🎥 How to grow your brain](https://www.youtube.com/watch?v=GWSZ1DKjNzY)
+- [🎥 The Growth Mindset](https://www.youtube.com/watch?v=wh0OS4MrN3E)
+- [🎥 Developing Growth Mindset with Carol Dweck](https://www.youtube.com/watch?v=hiiEeMN7vbQ)
+- [🎥 The power of believing that you can improve | Carol Dweck](https://www.youtube.com/watch?v=_X0mgOOSpLU)
 
 ## Learning How to Learn
 Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?v=YFUIPg8P2sY&t=332s)
-- [How to Get the Most Out of Studying](https://www.youtube.com/playlist?list=PL85708E6EA236E3DB)
+- [🎥 How to Get the Most Out of Studying](https://www.youtube.com/playlist?list=PL85708E6EA236E3DB)
 - [How to Study Math](https://tutorial.math.lamar.edu/Extras/StudyMath/HowToStudyMath.aspx)
      * [General Tips For Studying Mathematics](https://tutorial.math.lamar.edu/Extras/StudyMath/GeneralTips.aspx)
      * [Taking Notes](https://tutorial.math.lamar.edu/Extras/StudyMath/TakingNotes.aspx)
@@ -23,16 +23,16 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 - [Feynman on teaching Physics South-American](http://calteches.library.caltech.edu/46/2/LatinAmerica.htm?fbclid=IwAR2HFl_FrR-9hbecND_2lbHd1O2uL8n2yO39pmC2VKLA1ORLEW-fd7-eyjk) 
 
 ## Algebra
-- [x]  [Algebra 1](https://www.youtube.com/playlist?list=PLSQl0a2vh4HDdl6PcjwZH2CkM5OoV6spg) 
-- [x]  [Algebra 2](https://www.youtube.com/playlist?list=PLSQl0a2vh4HCI6_FsC0_7Us0IwsZHQ7Tu)
-- [x]  [College Algebra](https://www.youtube.com/watch?v=LwCRRUa8yTU&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v&index=1)
+- [x]  [🎥 Algebra 1](https://www.youtube.com/playlist?list=PLSQl0a2vh4HDdl6PcjwZH2CkM5OoV6spg) 
+- [x]  [🎥 Algebra 2](https://www.youtube.com/playlist?list=PLSQl0a2vh4HCI6_FsC0_7Us0IwsZHQ7Tu)
+- [x]  [🎥 College Algebra](https://www.youtube.com/watch?v=LwCRRUa8yTU&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v&index=1)
 ## Calculus
-   * [Calculus 1](https://www.youtube.com/watch?v=HfACrKJ_Y2w)
-   * [Calculus 2](https://www.youtube.com/watch?v=7gigNsz4Oe8&list=RDLVHfACrKJ_Y2w&index=2)
-   * [Pre-Calculus](https://www.youtube.com/watch?v=eI4an8aSsgw&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v&index=2)
-   * [Calculus tutorial](https://www.youtube.com/playlist?list=PLybg94GvOJ9ELZEe9s2NXTKr41Yedbw7M)
-   * [Calculus book](https://drive.google.com/file/d/1ZgpXmsO6gJPQuz-b3jCEARz7_eUodmmF/view?usp=sharing)
-   * [Introduction to Linear Algebra (Gilbert Strang)](https://drive.google.com/file/d/1SyLbvevTwhbOVGVFRJEZfOJiBZhfARa3/view?usp=sharing)
+   * [🎥 Calculus 1](https://www.youtube.com/watch?v=HfACrKJ_Y2w)
+   * [🎥 Calculus 2](https://www.youtube.com/watch?v=7gigNsz4Oe8&list=RDLVHfACrKJ_Y2w&index=2)
+   * [🎥 Pre-Calculus](https://www.youtube.com/watch?v=eI4an8aSsgw&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v&index=2)
+   * [🎥 Calculus tutorial](https://www.youtube.com/playlist?list=PLybg94GvOJ9ELZEe9s2NXTKr41Yedbw7M)
+   * [📖 Calculus book](https://drive.google.com/file/d/1ZgpXmsO6gJPQuz-b3jCEARz7_eUodmmF/view?usp=sharing)
+   * [📖 Introduction to Linear Algebra (Gilbert Strang)](https://drive.google.com/file/d/1SyLbvevTwhbOVGVFRJEZfOJiBZhfARa3/view?usp=sharing)
 
 
 ##  Simulations and Open source
@@ -47,8 +47,8 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 - [Youcubed](https://www.youcubed.org/)
 
 ## Course recommended 
-- [Learning How to learn (Part 1)](https://www.coursera.org/learn/learning-how-to-learn/home/week/1) | [Part 2](https://www.coursera.org/learn/learning-how-to-learn-youth/home/week/1) | [Part 3](https://www.coursera.org/programs/placeholder-gzyqu/browse?productId=XDJWC7ZqEeaa7BLnmaLUtg&productType=course&query=Learning+how+to+learn&showMiniModal=true&source=search)
-- [How to learn math: For students](https://learning.edx.org/course/course-v1:StanfordOnline+GSE-YEDUC115-S+1T2020/home)
+- [🔖 Learning How to learn (Part 1)](https://www.coursera.org/learn/learning-how-to-learn/home/week/1) | [Part 2](https://www.coursera.org/learn/learning-how-to-learn-youth/home/week/1) | [Part 3](https://www.coursera.org/programs/placeholder-gzyqu/browse?productId=XDJWC7ZqEeaa7BLnmaLUtg&productType=course&query=Learning+how+to+learn&showMiniModal=true&source=search)
+- [🔖 How to learn math: For students](https://learning.edx.org/course/course-v1:StanfordOnline+GSE-YEDUC115-S+1T2020/home)
 
 ## License 
 
