@@ -1,5 +1,15 @@
 # 📁 Introduction 
 ![](https://komarev.com/ghpvc/?username=Self-Study-Maths&color=brightgreen&label=VISITORS)
+<details>
+  <summary>⏳ My mission</summary>
+  <br/>
+
+<!--START_SECTION:activity-->
+	💪 It should be one of our mission to improve everyday for the better
+<!--END_SECTION:activity-->
+</details>
+
+	I am happy when I can improve myself just 1% everyday
 
 ## 🚀 Learning How to learn
 Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?v=YFUIPg8P2sY&t=332s)
