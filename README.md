@@ -2,13 +2,6 @@
 ![](https://komarev.com/ghpvc/?username=Self-Study-Maths&color=brightgreen&label=VISITORS)
 
 ## 🚀 Learning How to learn
-- [🎥 You Can Learn Anything](https://www.youtube.com/watch?v=beSsSAUf-oc)
-- [🎥 How to grow your brain](https://www.youtube.com/watch?v=GWSZ1DKjNzY)
-- [🎥 The Growth Mindset](https://www.youtube.com/watch?v=wh0OS4MrN3E)
-- [🎥 Developing Growth Mindset with Carol Dweck](https://www.youtube.com/watch?v=hiiEeMN7vbQ)
-- [🎥 The power of believing that you can improve | Carol Dweck](https://www.youtube.com/watch?v=_X0mgOOSpLU)
-
-## Learning How to Learn
 Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?v=YFUIPg8P2sY&t=332s)
 - [🎥 How to Get the Most Out of Studying](https://www.youtube.com/playlist?list=PL85708E6EA236E3DB)
 - [How to Study Math](https://tutorial.math.lamar.edu/Extras/StudyMath/HowToStudyMath.aspx)
@@ -21,6 +14,11 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
      * [Taking An Exam](https://tutorial.math.lamar.edu/Extras/StudyMath/TakingExam.aspx)
      * [Learn From Your Errors](https://tutorial.math.lamar.edu/Extras/StudyMath/Errors.aspx)
 - [Feynman on teaching Physics South-American](http://calteches.library.caltech.edu/46/2/LatinAmerica.htm?fbclid=IwAR2HFl_FrR-9hbecND_2lbHd1O2uL8n2yO39pmC2VKLA1ORLEW-fd7-eyjk) 
+- [🎥 You Can Learn Anything](https://www.youtube.com/watch?v=beSsSAUf-oc)
+- [🎥 How to grow your brain](https://www.youtube.com/watch?v=GWSZ1DKjNzY)
+- [🎥 The Growth Mindset](https://www.youtube.com/watch?v=wh0OS4MrN3E)
+- [🎥 Developing Growth Mindset with Carol Dweck](https://www.youtube.com/watch?v=hiiEeMN7vbQ)
+- [🎥 The power of believing that you can improve | Carol Dweck](https://www.youtube.com/watch?v=_X0mgOOSpLU)
 
 ## Algebra
 - [x]  [🎥 Algebra 1](https://www.youtube.com/playlist?list=PLSQl0a2vh4HDdl6PcjwZH2CkM5OoV6spg) 
