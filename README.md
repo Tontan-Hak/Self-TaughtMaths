@@ -47,7 +47,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 - [Phet Stimulation](https://phet.colorado.edu/en/simulations/filter?subjects=math&type=html,prototype)
 - [Khan Academy](https://www.khanacademy.org/teacher/dashboard)
 - [Coursera](https://www.coursera.org/programs/placeholder-gzyqu?currentTab=CATALOG)
-- [Duraseksa](https://www.duraseksa.com/home)
+- [Geogebra](https://www.geogebra.org/u/tontanhak97)
 - [Openstax](https://openstax.org/subjects)
 - [CK-12](https://www.ck12.org/my/dashboard-new/)
 - [Opencourse Ware](https://openlearning.mit.edu/courses-programs/open-learning-library?fbclid=IwAR30REEB_Ppllx282Kqv_DYQgecugiCOwXNcI-jpNaq5kpO-O3Of6ajR6MM&f%5B0%5D=open_moocs_departments%3A29)
