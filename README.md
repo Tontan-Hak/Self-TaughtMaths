@@ -10,10 +10,6 @@
 </details>
 
 	I am happy when I can improve myself just 1% everyday
-	
-ttt
-
-	hhddfhhh
 
 ## 🚀 Learning How to learn
 🎥 Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?v=YFUIPg8P2sY&t=332s)
