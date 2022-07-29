@@ -44,7 +44,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
    * [📖 Introduction to Linear Algebra (Gilbert Strang)](https://drive.google.com/file/d/1SyLbvevTwhbOVGVFRJEZfOJiBZhfARa3/view?usp=sharing)
 
 
-##  🔍 Simulations and Open source
+##  🔍 Simulations and Open online source
 - [🌐 Phet Stimulation](https://phet.colorado.edu/en/simulations/filter?subjects=math&type=html,prototype)
 - [🌐 Khan Academy](https://www.khanacademy.org/teacher/dashboard)
 - [🌐 Coursera](https://www.coursera.org/programs/placeholder-gzyqu?currentTab=CATALOG)
