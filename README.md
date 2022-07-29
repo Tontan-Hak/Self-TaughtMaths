@@ -50,6 +50,16 @@
 - [x]  [🎥 Algebra 1](https://www.youtube.com/playlist?list=PLSQl0a2vh4HDdl6PcjwZH2CkM5OoV6spg) 
 - [x]  [🎥 Algebra 2](https://www.youtube.com/playlist?list=PLSQl0a2vh4HCI6_FsC0_7Us0IwsZHQ7Tu)
 - [x]  [🎥 College Algebra](https://www.youtube.com/watch?v=LwCRRUa8yTU&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v&index=1)
+- [ ]  [📚 Algebra and Trigonometry](https://drive.google.com/file/d/1crH0SCVUB6BDQ2T4uw2snY4EBtJov0fH/view?usp=sharing)
+- [ ]  [📚 Algebra and Trigonometry 2e](https://drive.google.com/file/d/12evq2S9LLCABD7UYZJkCCpIj30aHL9Zc/view?usp=sharing)
+- [ ]  [📚 College Algebra](https://drive.google.com/file/d/1FAgy9CMvYAg00DLeeZd4MUTQCcbb50GE/view?usp=sharing)
+- [ ]  [📚 College Algebra 2e](https://drive.google.com/file/d/1d0h2sttuAV1fx9dVG5Ovx6zcB9BlCdsZ/view?usp=sharing)
+- [ ]  [📚 Algebra with Corequisite support](https://drive.google.com/file/d/1s1weA2AyQYZ3HTc_IsZXXd_FFlwzav7f/view?usp=sharing)
+- [ ]  [📚 Algebra with Corequisite support 2e](https://drive.google.com/file/d/1NisV1h1VxRvNRl9IJmCB5I8P7zNjJj5E/view?usp=sharing)
+- [ ]  [📚 Elementary Algebra 2e](https://drive.google.com/file/d/1KSFx52crOPC0TrMRYfPg0-rrHgUrSteo/view?usp=sharing)
+- [ ]  [📚 Intermediate Algebra 2e](https://drive.google.com/file/d/1rS1jlvU6uN2qpGV4tuxnU3l9vFjBDO68/view?usp=sharing)
+- [ ]  [📚 Prealgebra 2e](https://drive.google.com/file/d/1IVE6fW9oDuaHviQEDWfRD-PhUc8i14LV/view?usp=sharing)
+
 ## Calculus
    * [🎥 Calculus](https://www.youtube.com/playlist?list=PL19E79A0638C8D449)
    * [🎥 Calculus 1](https://www.youtube.com/watch?v=HfACrKJ_Y2w)
@@ -58,6 +68,11 @@
    * [🎥 Calculus tutorial](https://www.youtube.com/playlist?list=PLybg94GvOJ9ELZEe9s2NXTKr41Yedbw7M)
    * [📖 Calculus book](https://drive.google.com/file/d/1ZgpXmsO6gJPQuz-b3jCEARz7_eUodmmF/view?usp=sharing)
    * [📖 Introduction to Linear Algebra (Gilbert Strang)](https://drive.google.com/file/d/1SyLbvevTwhbOVGVFRJEZfOJiBZhfARa3/view?usp=sharing)
+   * [Calculus Volume 1](https://drive.google.com/file/d/1MH7Dnq-qgcooUxFr9ZjmBXU_0-M4Yu0W/view?usp=sharing)
+   * [Calculus Volume 2](https://drive.google.com/file/d/1NINMSa7h_8RdtSgxsKdlVd-8PEz9JVUH/view?usp=sharing)
+   * [Calculus Volume 3](https://drive.google.com/file/d/1DKREnzIaSKgHijEs5_QTlWD1AHiQQsG7/view?usp=sharing)
+   * [Precalculus](https://drive.google.com/file/d/12RTIFdUOkmp3PaiI4v_H7I0toHSHIwMd/view?usp=sharing)
+   * [Precalculus 2e](https://drive.google.com/file/d/1d0h2sttuAV1fx9dVG5Ovx6zcB9BlCdsZ/view?usp=sharing)
 
 ## Statistic and Probability
 - [🎥 Statistics](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
