@@ -68,11 +68,11 @@
    * [🎥 Calculus tutorial](https://www.youtube.com/playlist?list=PLybg94GvOJ9ELZEe9s2NXTKr41Yedbw7M)
    * [📖 Calculus book](https://drive.google.com/file/d/1ZgpXmsO6gJPQuz-b3jCEARz7_eUodmmF/view?usp=sharing)
    * [📖 Introduction to Linear Algebra (Gilbert Strang)](https://drive.google.com/file/d/1SyLbvevTwhbOVGVFRJEZfOJiBZhfARa3/view?usp=sharing)
-   * [Calculus Volume 1](https://drive.google.com/file/d/1MH7Dnq-qgcooUxFr9ZjmBXU_0-M4Yu0W/view?usp=sharing)
-   * [Calculus Volume 2](https://drive.google.com/file/d/1NINMSa7h_8RdtSgxsKdlVd-8PEz9JVUH/view?usp=sharing)
-   * [Calculus Volume 3](https://drive.google.com/file/d/1DKREnzIaSKgHijEs5_QTlWD1AHiQQsG7/view?usp=sharing)
-   * [Precalculus](https://drive.google.com/file/d/12RTIFdUOkmp3PaiI4v_H7I0toHSHIwMd/view?usp=sharing)
-   * [Precalculus 2e](https://drive.google.com/file/d/1d0h2sttuAV1fx9dVG5Ovx6zcB9BlCdsZ/view?usp=sharing)
+   * [📚 Calculus Volume 1](https://drive.google.com/file/d/1MH7Dnq-qgcooUxFr9ZjmBXU_0-M4Yu0W/view?usp=sharing)
+   * [📚 Calculus Volume 2](https://drive.google.com/file/d/1NINMSa7h_8RdtSgxsKdlVd-8PEz9JVUH/view?usp=sharing)
+   * [📚 Calculus Volume 3](https://drive.google.com/file/d/1DKREnzIaSKgHijEs5_QTlWD1AHiQQsG7/view?usp=sharing)
+   * [📚 Precalculus](https://drive.google.com/file/d/12RTIFdUOkmp3PaiI4v_H7I0toHSHIwMd/view?usp=sharing)
+   * [📚 Precalculus 2e](https://drive.google.com/file/d/1d0h2sttuAV1fx9dVG5Ovx6zcB9BlCdsZ/view?usp=sharing)
 
 ## Statistic and Probability
 - [🎥 Statistics](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
