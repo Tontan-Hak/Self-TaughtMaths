@@ -58,6 +58,14 @@
    * [📖 Calculus book](https://drive.google.com/file/d/1ZgpXmsO6gJPQuz-b3jCEARz7_eUodmmF/view?usp=sharing)
    * [📖 Introduction to Linear Algebra (Gilbert Strang)](https://drive.google.com/file/d/1SyLbvevTwhbOVGVFRJEZfOJiBZhfARa3/view?usp=sharing)
 
+## Statistic and Probability
+- [Statistics](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
+- [Probability](https://www.youtube.com/playlist?list=PLC58778F28211FA19)
+- [Random variables | Probability and Statistics](https://www.youtube.com/playlist?list=PLU5aQXLWR3_xDN0M2ZeZ_zHIia0e42_3O)
+- [Descriptive statistics | Probability and Statistics](https://www.youtube.com/playlist?list=PLU5aQXLWR3_yYS0ZYRA-5g5YSSYLNZ6Mc)
+- [Statistics 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+- [statistics for Application](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
+
 ## License 
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
