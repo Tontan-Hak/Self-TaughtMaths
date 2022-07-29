@@ -28,7 +28,8 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 - [🎥 How to grow your brain](https://www.youtube.com/watch?v=GWSZ1DKjNzY)
 - [🎥 The Growth Mindset](https://www.youtube.com/watch?v=wh0OS4MrN3E)
 - [🎥 Developing Growth Mindset with Carol Dweck](https://www.youtube.com/watch?v=hiiEeMN7vbQ)
-- [🎥 The power of believing that you can improve | Carol Dweck](https://www.youtube.com/watch?v=_X0mgOOSpLU)
+- [🎥 Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.youtube.com/playlist?list=PL-9r0qXR0Kq1TA2W6SpKLYZTP-_xfbebw)
+- [🎥 Learning how to learn | Barbara Oakley | TEDxOaklandUniversity](https://www.youtube.com/watch?v=O96fE1E-rf8)
 
 ## Algebra
 - [x]  [🎥 Algebra 1](https://www.youtube.com/playlist?list=PLSQl0a2vh4HDdl6PcjwZH2CkM5OoV6spg) 
