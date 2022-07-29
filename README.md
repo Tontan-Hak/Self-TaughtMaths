@@ -51,6 +51,7 @@
 - [x]  [🎥 Algebra 2](https://www.youtube.com/playlist?list=PLSQl0a2vh4HCI6_FsC0_7Us0IwsZHQ7Tu)
 - [x]  [🎥 College Algebra](https://www.youtube.com/watch?v=LwCRRUa8yTU&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v&index=1)
 ## Calculus
+   * [🎥 Calculus](https://www.youtube.com/playlist?list=PL19E79A0638C8D449)
    * [🎥 Calculus 1](https://www.youtube.com/watch?v=HfACrKJ_Y2w)
    * [🎥 Calculus 2](https://www.youtube.com/watch?v=7gigNsz4Oe8&list=RDLVHfACrKJ_Y2w&index=2)
    * [🎥 Pre-Calculus](https://www.youtube.com/watch?v=eI4an8aSsgw&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v&index=2)
@@ -59,12 +60,12 @@
    * [📖 Introduction to Linear Algebra (Gilbert Strang)](https://drive.google.com/file/d/1SyLbvevTwhbOVGVFRJEZfOJiBZhfARa3/view?usp=sharing)
 
 ## Statistic and Probability
-- [Statistics](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
-- [Probability](https://www.youtube.com/playlist?list=PLC58778F28211FA19)
-- [Random variables | Probability and Statistics](https://www.youtube.com/playlist?list=PLU5aQXLWR3_xDN0M2ZeZ_zHIia0e42_3O)
-- [Descriptive statistics | Probability and Statistics](https://www.youtube.com/playlist?list=PLU5aQXLWR3_yYS0ZYRA-5g5YSSYLNZ6Mc)
-- [Statistics 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
-- [statistics for Application](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
+- [🎥 Statistics](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
+- [🎥 Probability](https://www.youtube.com/playlist?list=PLC58778F28211FA19)
+- [🎥 Random variables | Probability and Statistics](https://www.youtube.com/playlist?list=PLU5aQXLWR3_xDN0M2ZeZ_zHIia0e42_3O)
+- [🎥 Descriptive statistics | Probability and Statistics](https://www.youtube.com/playlist?list=PLU5aQXLWR3_yYS0ZYRA-5g5YSSYLNZ6Mc)
+- [🎥 Statistics 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+- [🎥 statistics for Application](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 
 ## License 
 
