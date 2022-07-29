@@ -92,7 +92,21 @@
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-Inline HTML
+### Footnote
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].  
+
+You can also use words, to fit your writing style more closely[^note].
+
+[^1]: My reference.
+[^2]: Every new line should be prefixed with 2 spaces.  
+  This allows you to have a footnote with multiple lines.
+[^note]:
+    Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
+    This footnote also has been made with a different syntax using 4 spaces for new lines.
+    
+### Inline HTML
 <dl>
   <dt>Definition list</dt>
   <dd>Is something people use sometimes.</dd>
@@ -101,7 +115,7 @@ Inline HTML
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 
-Blockquotes
+### Blockquotes
 > Blockquotes are very handy in email to emulate reply text.
 > This line is part of the same quote.
 
@@ -109,7 +123,7 @@ Quote break.
 
 > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
 
-Tables
+### Tables
 Colons can be used to align columns.
 
 | Tables        | Are           | Cool  |
@@ -127,21 +141,6 @@ Markdown | Less | Pretty
 *Still* | `renders` | **nicely**
 1 | 2 | 3
 
-Footnote
-Here is a simple footnote[^1].
-
-A footnote can also have multiple lines[^2].  
-
-You can also use words, to fit your writing style more closely[^note].
-
-[^1]: My reference.
-[^2]: Every new line should be prefixed with 2 spaces.  
-  This allows you to have a footnote with multiple lines.
-[^note]:
-    Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
-    This footnote also has been made with a different syntax using 4 spaces for new lines.
-    
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 <a href="https://github.com/Tontan-Hak/Self-Study-Maths/stargazers"><img src="https://img.shields.io/github/stars/Tontan-Hak/Self-Study-Maths" alt="Stars Badge"/></a>
 <a href="https://github.com/Tontan-Hak/Self-Study-Maths/network/members"><img src="https://img.shields.io/github/forks/Tontan-Hak/Self-Study-Maths" alt="Forks Badge"/></a>
