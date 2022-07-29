@@ -72,7 +72,7 @@
    * [📚 Calculus Volume 2](https://drive.google.com/file/d/1NINMSa7h_8RdtSgxsKdlVd-8PEz9JVUH/view?usp=sharing)
    * [📚 Calculus Volume 3](https://drive.google.com/file/d/1DKREnzIaSKgHijEs5_QTlWD1AHiQQsG7/view?usp=sharing)
    * [📚 Precalculus](https://drive.google.com/file/d/12RTIFdUOkmp3PaiI4v_H7I0toHSHIwMd/view?usp=sharing)
-   * [📚 Precalculus 2e](https://documentcloud.adobe.com/gsuiteintegration/index.html?state=%7B%22ids%22%3A%5B%221d0h2sttuAV1fx9dVG5Ovx6zcB9BlCdsZ%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22114771463770519365710%22%2C%22resourceKeys%22%3A%7B%7D%7D)
+   * [📚 Precalculus 2e](https://drive.google.com/file/d/1d0h2sttuAV1fx9dVG5Ovx6zcB9BlCdsZ/view?usp=sharing)
 
 ## Statistic and Probability
 - [🎥 Statistics](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
