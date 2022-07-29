@@ -66,6 +66,9 @@
 - [🎥 Descriptive statistics | Probability and Statistics](https://www.youtube.com/playlist?list=PLU5aQXLWR3_yYS0ZYRA-5g5YSSYLNZ6Mc)
 - [🎥 Statistics 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
 - [🎥 Statistics for Application](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
+- [📚 Introduction to statistics](https://drive.google.com/file/d/13GV3wH3b3CsR4iRYDSyMTYXtlanDkvCr/view?usp=sharing)
+- [📚 Statistics](https://drive.google.com/file/d/1yA678UGHrRN6L46v4KyP-SE1lwl9OrS4/view?usp=sharing)
+- [📚 Introduction to Business statistics](https://drive.google.com/file/d/19r2lxXOoRCZe1TK8gZGwuXYkGYt13hAX/view?usp=sharing)
 
 ## License 
 
