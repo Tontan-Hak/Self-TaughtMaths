@@ -39,7 +39,7 @@
 - [🌐 Phet Stimulation](https://phet.colorado.edu/en/simulations/filter?subjects=math&type=html,prototype)
 - [🌐 Geogebra](https://www.geogebra.org/u/tontanhak97)
 - [🌐 Khan Academy](https://www.khanacademy.org/teacher/dashboard)
-- [🌐 Openstax](https://openstax.org/subjects)
+- [🌐 OpenStax](https://openstax.org/subjects)
 - [🌐 CK-12](https://www.ck12.org/my/dashboard-new/)
 - [🌐 MIT OpenCourseWare](https://openlearning.mit.edu/courses-programs/open-learning-library?fbclid=IwAR30REEB_Ppllx282Kqv_DYQgecugiCOwXNcI-jpNaq5kpO-O3Of6ajR6MM&f%5B0%5D=open_moocs_departments%3A29)
 - [🌐 Better Explained](https://betterexplained.com/)
@@ -65,7 +65,7 @@
 - [🎥 Random variables | Probability and Statistics](https://www.youtube.com/playlist?list=PLU5aQXLWR3_xDN0M2ZeZ_zHIia0e42_3O)
 - [🎥 Descriptive statistics | Probability and Statistics](https://www.youtube.com/playlist?list=PLU5aQXLWR3_yYS0ZYRA-5g5YSSYLNZ6Mc)
 - [🎥 Statistics 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
-- [🎥 statistics for Application](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
+- [🎥 Statistics for Application](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 
 ## License 
 
