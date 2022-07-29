@@ -51,7 +51,7 @@
 - [🌐 Geogebra](https://www.geogebra.org/u/tontanhak97)
 - [🌐 Openstax](https://openstax.org/subjects)
 - [🌐 CK-12](https://www.ck12.org/my/dashboard-new/)
-- [🌐 Opencourse Ware](https://openlearning.mit.edu/courses-programs/open-learning-library?fbclid=IwAR30REEB_Ppllx282Kqv_DYQgecugiCOwXNcI-jpNaq5kpO-O3Of6ajR6MM&f%5B0%5D=open_moocs_departments%3A29)
+- [🌐 MIT OpenCourseWare](https://openlearning.mit.edu/courses-programs/open-learning-library?fbclid=IwAR30REEB_Ppllx282Kqv_DYQgecugiCOwXNcI-jpNaq5kpO-O3Of6ajR6MM&f%5B0%5D=open_moocs_departments%3A29)
 - [🌐 Better Explained](https://betterexplained.com/)
 - [🌐 Youcubed](https://www.youcubed.org/)
 
