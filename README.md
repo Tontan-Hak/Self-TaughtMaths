@@ -30,9 +30,12 @@
 - [🎥 Developing Growth Mindset with Carol Dweck](https://www.youtube.com/watch?v=hiiEeMN7vbQ)
 - [🎥 Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.youtube.com/playlist?list=PL-9r0qXR0Kq1TA2W6SpKLYZTP-_xfbebw)
 - [🎥 Learning how to learn | Barbara Oakley | TEDxOaklandUniversity](https://www.youtube.com/watch?v=O96fE1E-rf8)
+- [🎥 Learning how to learn for youth](https://www.youtube.com/playlist?list=PLVext98k2eviNRNTheyyTZ8d8Wkg25b-u)
 
 ## 🚩 Recommended Course 
-- [🔖 Learning How to learn (Part 1)](https://www.coursera.org/learn/learning-how-to-learn/home/week/1) | [Part 2](https://www.coursera.org/learn/learning-how-to-learn-youth/home/week/1) | [Part 3](https://www.coursera.org/programs/placeholder-gzyqu/browse?productId=XDJWC7ZqEeaa7BLnmaLUtg&productType=course&query=Learning+how+to+learn&showMiniModal=true&source=search)
+- [🔖 Learning How to learn](https://www.coursera.org/learn/learning-how-to-learn) 
+- [Learning how to learn for youth](https://www.coursera.org/learn/learning-how-to-learn-youth)  
+- [Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.coursera.org/programs/placeholder-gzyqu/browse?productId=XDJWC7ZqEeaa7BLnmaLUtg&productType=course&query=Mindshift%3A+Break+Through+Obstacles+to+Learning+and+Discover+Your+Hidden+Potential&showMiniModal=true&source=search)
 - [🔖 How to learn math: For students](https://learning.edx.org/course/course-v1:StanfordOnline+GSE-YEDUC115-S+1T2020/home)
 
 ##  🔍 Simulations and Open online source
