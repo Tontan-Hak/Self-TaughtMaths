@@ -77,4 +77,5 @@
 <a href="https://github.com/Tontan-Hak/Grade12-Math/issues"><img src="https://img.shields.io/github/issues/Tontan-Hak/Grade12-Math" alt="Issues Badge"/></a>
 <a href="https://github.com/Tontan-Hak/Self-Study-Maths/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Tontan-Hak/Self-Study-Maths?color=2b9348"></a>
 <a href="https://github.com/Tontan-Hak/Self-Study-Maths/blob/main/license"><img src="https://img.shields.io/github/license/Tontan-Hak/Self-Study-Maths?color=2b9348" alt="License Badge"/></a>
+
 -----
