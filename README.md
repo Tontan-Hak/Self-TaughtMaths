@@ -32,6 +32,7 @@
 - [🎥 Learning how to learn for youth](https://www.youtube.com/playlist?list=PL9naDPbckPtDjtdJR3fA8K9OR_Dx14kMY)
 - [🎥 Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.youtube.com/playlist?list=PL-9r0qXR0Kq1TA2W6SpKLYZTP-_xfbebw)
 - [🎥 Learn like a pro](https://www.youtube.com/playlist?list=PLquUE84HehPSLPUTOZEOWCB2DAsjVsQjl)
+- [🎥 How to Learn Spanish in a Month - Language Learning Documentary](https://www.youtube.com/watch?v=aZke6Va7kJU&t=157s)
 
 ## 🚩 Recommended Course 
 - [🔖 Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) 
