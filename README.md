@@ -31,12 +31,14 @@
 - [🎥 Learning how to learn | Barbara Oakley | TEDxOaklandUniversity](https://www.youtube.com/watch?v=O96fE1E-rf8)
 - [🎥 Learning how to learn for youth](https://www.youtube.com/playlist?list=PL9naDPbckPtDjtdJR3fA8K9OR_Dx14kMY)
 - [🎥 Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.youtube.com/playlist?list=PL-9r0qXR0Kq1TA2W6SpKLYZTP-_xfbebw)
+- [🎥 Learn like a pro](https://www.youtube.com/playlist?list=PLquUE84HehPSLPUTOZEOWCB2DAsjVsQjl)
 
 ## 🚩 Recommended Course 
 - [🔖 Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) 
 - [🔖 Learning how to learn for youth](https://www.coursera.org/learn/learning-how-to-learn-youth)  
 - [🔖 Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.coursera.org/learn/mindshift)
 - [🔖 How to learn math: For students](https://learning.edx.org/course/course-v1:StanfordOnline+GSE-YEDUC115-S+1T2020/home)
+- [🔖 Learn like a Pro](https://www.edx.org/course/llap?index=product&queryID=ec48b54cc22431a39eb1e7136358ec48&position=1)
 
 ##  🔍 Simulations and Open online source
 - [🌐 Phet Stimulation](https://phet.colorado.edu/en/simulations/filter?subjects=math&type=html,prototype)
