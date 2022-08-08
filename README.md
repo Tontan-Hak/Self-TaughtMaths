@@ -42,9 +42,9 @@
 - [🔖 Learn like a Pro: Science-Based Tools to Become Better at Anything](https://www.edx.org/course/llap?index=product&queryID=ec48b54cc22431a39eb1e7136358ec48&position=1)
 - [🔖 How to learn math: For students](https://learning.edx.org/course/course-v1:StanfordOnline+GSE-YEDUC115-S+1T2020/home)
 
-## Teaching and learning
-- [Uncommon Sense Teaching](https://www.coursera.org/learn/uncommon-sense-teaching)
-- [Uncommon Sense Teaching: Part 2, Building Community and Habits of Learning](https://www.coursera.org/learn/building-community-habits-of-learning)
+## 📑 Teaching and learning
+- [🚩 Uncommon Sense Teaching](https://www.coursera.org/learn/uncommon-sense-teaching)
+- [🚩 Uncommon Sense Teaching: Part 2, Building Community and Habits of Learning](https://www.coursera.org/learn/building-community-habits-of-learning)
 ##  🔍 Simulations and Open online source
 - [🌐 Phet Stimulation](https://phet.colorado.edu/en/simulations/filter?subjects=math&type=html,prototype)
 - [🌐 Geogebra](https://www.geogebra.org/u/tontanhak97)
