@@ -5,11 +5,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-	💪 It should be one of our mission to improve everyday for the better
+	I am happy when I can improve myself just 1% everyday
 <!--END_SECTION:activity-->
 </details>
 
-	I am happy when I can improve myself just 1% everyday
+	💪 It should be one of our mission to improve everyday for the better
 
 ## 🚀 Learning How to learn
 🎥 Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?v=YFUIPg8P2sY&t=332s)
