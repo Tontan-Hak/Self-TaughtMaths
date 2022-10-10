@@ -52,7 +52,7 @@
 - [🌐 Khan Academy](https://www.khanacademy.org/teacher/dashboard)
 - [🌐 OpenStax](https://openstax.org/subjects)
 - [🌐 CK-12](https://www.ck12.org/my/dashboard-new/)
-- [🌐 MIT OpenCourseWare](https://openlearning.mit.edu/courses-programs/open-learning-library?fbclid=IwAR30REEB_Ppllx282Kqv_DYQgecugiCOwXNcI-jpNaq5kpO-O3Of6ajR6MM&f%5B0%5D=open_moocs_departments%3A29)
+- [🌐 MIT OpenCourseWare](https://ocw.mit.edu/)
 - [🌐 Better Explained](https://betterexplained.com/)
 - [🌐 Youcubed](https://www.youcubed.org/)
 - [🌐 Coursera](https://www.coursera.org/programs/placeholder-gzyqu?currentTab=CATALOG)
