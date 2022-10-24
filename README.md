@@ -79,7 +79,7 @@ Free and flexible textbooks and resources.
 - [ ]  [📚 Intermediate Algebra 2e](https://drive.google.com/file/d/1rS1jlvU6uN2qpGV4tuxnU3l9vFjBDO68/view?usp=sharing)
 - [ ]  [📚 Prealgebra 2e](https://drive.google.com/file/d/1IVE6fW9oDuaHviQEDWfRD-PhUc8i14LV/view?usp=sharing)
 
-## Calculus
+### Calculus
    * [🎥 Calculus](https://www.youtube.com/playlist?list=PL19E79A0638C8D449)
    * [🎥 Calculus 1](https://www.youtube.com/watch?v=HfACrKJ_Y2w)
    * [🎥 Calculus 2](https://www.youtube.com/watch?v=7gigNsz4Oe8&list=RDLVHfACrKJ_Y2w&index=2)
@@ -93,7 +93,7 @@ Free and flexible textbooks and resources.
    * [📚 Precalculus](https://drive.google.com/file/d/12RTIFdUOkmp3PaiI4v_H7I0toHSHIwMd/view?usp=sharing)
    * [📚 Precalculus 2e](https://drive.google.com/file/d/1d0h2sttuAV1fx9dVG5Ovx6zcB9BlCdsZ/view?usp=sharing)
 
-## Statistic and Probability
+### Statistic and Probability
 - [🎥 Statistics](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
 - [🎥 Probability](https://www.youtube.com/playlist?list=PLC58778F28211FA19)
 - [🎥 Random variables | Probability and Statistics](https://www.youtube.com/playlist?list=PLU5aQXLWR3_xDN0M2ZeZ_zHIia0e42_3O)
