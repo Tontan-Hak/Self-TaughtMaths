@@ -60,8 +60,8 @@
 # MIT Math Subjects Overview
 - [Math Subjects Overview](https://math.mit.edu/academics/undergrad/subjects/)
 
-# Self taught maths
-- [ossu math](https://github.com/Tontan-Hak/self_taught_math)
+# 🧮 Path to a free self-taught education in Mathematics
+- [ossu Self taught maths](https://github.com/Tontan-Hak/self_taught_math)
 
 ## Algebra
 - [x]  [🎥 Algebra 1](https://www.youtube.com/playlist?list=PLSQl0a2vh4HDdl6PcjwZH2CkM5OoV6spg) 
