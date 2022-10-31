@@ -104,6 +104,10 @@ Free and flexible textbooks and resources.
 - [📚 Statistics](https://drive.google.com/file/d/1yA678UGHrRN6L46v4KyP-SE1lwl9OrS4/view?usp=sharing)
 - [📚 Introduction to Business statistics](https://drive.google.com/file/d/19r2lxXOoRCZe1TK8gZGwuXYkGYt13hAX/view?usp=sharing)
 
+# Advice
+* [Paul Graham](http://paulgraham.com/)
+* [Kevin Zhou](https://knzhou.github.io/?fbclid=IwAR3YuCDlUzAfwI3tEHD_TN0cv8BEGAHi0Nt9FWFiaENO8yQ0tXI8q4GM4UA)
+
 ## License 
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
