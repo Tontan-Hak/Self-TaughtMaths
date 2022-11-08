@@ -120,4 +120,3 @@ Free and flexible textbooks and resources.
 <a href="https://github.com/Tontan-Hak/Self-Study-Maths/blob/main/license"><img src="https://img.shields.io/github/license/Tontan-Hak/Self-Study-Maths?color=2b9348" alt="License Badge"/></a>
 
 -----
-
