@@ -5,7 +5,7 @@
   <br/>
 
 <!--START_SECTION:activity-->
-	Become a sefl-taught in any major
+	To provide the self-taught educatioin
 <!--END_SECTION:activity-->
 </details>
 
