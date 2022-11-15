@@ -89,7 +89,7 @@
 - [🔖 Learning how to learn for youth](https://www.coursera.org/learn/learning-how-to-learn-youth)  
 - [🔖 Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.coursera.org/learn/mindshift)
 - [🔖 Learn like a Pro: Science-Based Tools to Become Better at Anything](https://www.edx.org/course/llap?index=product&queryID=ec48b54cc22431a39eb1e7136358ec48&position=1)
-- [🔖 How to learn math: For students](https://learning.edx.org/course/course-v1:StanfordOnline+GSE-YEDUC115-S+1T2020/home)
+- [🔖 How to learn math: For students](https://www.edx.org/course/how-to-learn-math-for-students-2)
 
 ## 📑 Teaching and learning
 - [🚩 Uncommon Sense Teaching](https://www.coursera.org/learn/uncommon-sense-teaching)
