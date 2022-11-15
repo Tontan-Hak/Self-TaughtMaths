@@ -1,16 +1,6 @@
 # 📁 Introduction 
 ![](https://komarev.com/ghpvc/?username=Self-Study-Maths&color=brightgreen&label=VISITORS)
-<details>
-  <summary>⏳ My mission</summary>
-  <br/>
-
-<!--START_SECTION:activity-->
-	To provide the self-taught educatioin
-<!--END_SECTION:activity-->
-</details>
-
-	💪 It should be one of our mission to improve everyday for the better
-	I am happy when I can improve myself just 1% everyday
+**Quote**
 | **"There’s no miracle people. It just happens they got interested in this thing and they learned all this stuff. There’s just people.”** `Richard Feynman` |
 |:------------:|
 ## 🚀 Learning How to learn
@@ -169,3 +159,14 @@ Free and flexible textbooks and resources.
 <a href="https://github.com/Tontan-Hak/Self-Study-Maths/blob/main/license"><img src="https://img.shields.io/github/license/Tontan-Hak/Self-Study-Maths?color=2b9348" alt="License Badge"/></a>
 
 -----
+<details>
+  <summary>⏳ My mission</summary>
+  <br/>
+
+<!--START_SECTION:activity-->
+	To provide the self-taught educatioin
+<!--END_SECTION:activity-->
+</details>
+
+	💪 It should be one of our mission to improve everyday for the better
+	I am happy when I can improve myself just 1% everyday
