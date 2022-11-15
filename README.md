@@ -47,9 +47,9 @@
 >    - [🎬 The Power of Asking How | Olav Schewe | TEDxWCMephamHigh](https://www.youtube.com/watch?v=dpsr0SJ7jQI)
 >    - [🎬 Richard Hamming: "Learning to Learn"](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30)
 >    - [🎬 Best Way to Learn Anything](https://www.youtube.com/watch?v=J2JGiJNUsD4)
->    - [📄 How to Learn Anything with the Feynman Technique](https://blog.doist.com/feynman-technique/)
 >    - [🎬 Shimon Schocken: The self-organizing computer course](https://www.youtube.com/watch?v=iE7YRHxwoDs)
 >    - [🎬 Can you get an MIT education for $2,000? | Scott Young](https://www.youtube.com/watch?v=piSLobJfZ3c)
+>  * [📄 How to Learn Anything with the Feynman Technique](https://blog.doist.com/feynman-technique/)
 >  <!--END_SECTION:activity-->
 >  </details>
 >
