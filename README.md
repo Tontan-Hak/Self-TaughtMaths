@@ -173,9 +173,8 @@ Free and flexible textbooks and resources.
 * [Paul Graham](http://paulgraham.com/)
 * [Kevin Zhou](https://knzhou.github.io/?fbclid=IwAR3YuCDlUzAfwI3tEHD_TN0cv8BEGAHi0Nt9FWFiaENO8yQ0tXI8q4GM4UA)
 
-## License 
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 <a href="https://github.com/Tontan-Hak/Self-Study-Maths/stargazers"><img src="https://img.shields.io/github/stars/Tontan-Hak/Self-Study-Maths" alt="Stars Badge"/></a>
 <a href="https://github.com/Tontan-Hak/Self-Study-Maths/network/members"><img src="https://img.shields.io/github/forks/Tontan-Hak/Self-Study-Maths" alt="Forks Badge"/></a>
