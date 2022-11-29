@@ -147,7 +147,7 @@ The degree of Bachelor of Science in Mathematics equips Cambodian students with 
 - [Bachelor and Master document slide](https://drive.google.com/drive/folders/1VwNtaku-pZztEa01Ih4uGp2WAYv9ry4D?usp=share_link) | [T.Meas Len](https://www.facebook.com/photo?fbid=5004110462983127&set=a.140016552725900)
 - [Pre-master preparation](https://drive.google.com/drive/folders/1khl15eXoxKAf4nd4dHKDinImbCSf4Mji?usp=share_link)
 # 🧮 Path to a free self-taught education
-- [ossu Self taught maths](https://github.com/Tontan-Hak/self_taught_math)
+- [OSSU Self taught maths](https://github.com/Tontan-Hak/self_taught_math)
 - [seft taught computer science](https://github.com/Tontan-Hak/seft-taught-computer-science)
 - [Self taught data scinece](https://github.com/Tontan-Hak/self-taught-data-science)
 # The Open-Source Mathematics Degree
