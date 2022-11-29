@@ -176,19 +176,19 @@ Free and flexible textbooks and resources.
  - [🌐 Linkedin Learning](https://www.linkedin.com/learning/?u=35754684)
  - [🌐 MIT OpenCourseWare](https://ocw.mit.edu/)
 
-# 🎓Bachelor of Science in Mathematics
+# 🎓Bachelor of Science in Mathematics (MIT)
 - [Department of Mathematics](http://catalog.mit.edu/schools/science/mathematics/#text)
 - [Math Subjects Overview](https://math.mit.edu/academics/undergrad/subjects/)
 - [Mathematics (Course 18)](http://catalog.mit.edu/degree-charts/mathematics-course-18/#generalmathematicstext)
 - [Math Major](https://math.mit.edu/academics/undergrad/major/)
 
-# Open course
+### Open course
 - [MIT Open Learning Library](https://openlearning.mit.edu/courses-programs/open-learning-library?fbclid=IwAR30REEB_Ppllx282Kqv_DYQgecugiCOwXNcI-jpNaq5kpO-O3Of6ajR6MM&f%5B0%5D=open_moocs_departments%3A29)
 - [MIT OpenCourseWare](https://ocw.mit.edu/search/)
-# Content 
+### Content 
 - [Course 18: Mathematics Fall 2022](http://student.mit.edu/catalog/m18a.html)
 - [Math Major Roadmaps](https://math.mit.edu/academics/undergrad/roadmaps.html)
-# Online Math classes
+### Online Math classes
 The MIT Mathematics currently offers several online math courses through the [edX platform](https://www.edx.org/). Right now, we have a series of 3 calculus courses equivalent to 18.01 on campus, and a series of 4 differential equations courses, equivalent to 18.03, and a course on the Laplace transform, which is equivalent to 18.031 on campus. Each courses is offered as a synchronous course with deadlines and support from TAs on the discussion forum.
 
 - [18.01.1x Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation)
@@ -201,7 +201,14 @@ The MIT Mathematics currently offers several online math courses through the [ed
 - [18.03Fx Fourier](https://www.edx.org/course/differential-equations-fourier-series-and-partial)
 - [18.03Lx Laplace](https://www.edx.org/course/transfer-functions-and-the-laplace-transform)
 - [18.02.2x Multivariable Calculus 1: Integrals NEW!](https://www.edx.org/course/multivariable-calculus-2-surfaces-and-integrals)
+# 🎓 DEPARTMENT OF MATHEMATICS (RUPP)
+The degree of Bachelor of Science in Mathematics equips Cambodian students with the skills and competencies necessary to contribute to the development of Cambodia as teachers, statisticians, scientific managers, actuaries, system analysts and other professionals.
 
+- [Curriculum](http://www.rupp.edu.kh/fs/mathematics/?page=Curriculum)
+- [Books](https://drive.google.com/drive/folders/1jAU9E0Fgu-bHZ81CVzUOD8y6vTuAe-Fk?usp=sharing)
+- [AMS American Mathematical society](https://www.ams.org/open-math-notes?grad_level=3)
+- [Bachelor and Master document slide](https://drive.google.com/drive/folders/1VwNtaku-pZztEa01Ih4uGp2WAYv9ry4D?usp=share_link) | [T.Meas Len](https://www.facebook.com/photo?fbid=5004110462983127&set=a.140016552725900)
+- [Pre-master preparation](https://drive.google.com/drive/folders/1khl15eXoxKAf4nd4dHKDinImbCSf4Mji?usp=share_link)
 # Advice
 * [Paul Graham](http://paulgraham.com/)
 * [Kevin Zhou](https://knzhou.github.io/?fbclid=IwAR3YuCDlUzAfwI3tEHD_TN0cv8BEGAHi0Nt9FWFiaENO8yQ0tXI8q4GM4UA)
