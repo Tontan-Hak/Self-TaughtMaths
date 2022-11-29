@@ -29,7 +29,7 @@ Open Source Society University](https://github.com/ossu) & [MIT challenge](https
 >     * [🎬 Learning how to learn for youth](https://www.youtube.com/playlist?list=PL9naDPbckPtDjtdJR3fA8K9OR_Dx14kMY)
 >     * [🎬 Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.youtube.com/playlist?list=PLWM_YBhktZmw3EDBWap0kpZiZwR6YtjsA)
 >     * [🎬 Learn like a pro: Science-Based Tools to Become Better at Anything](https://www.youtube.com/playlist?list=PLquUE84HehPSLPUTOZEOWCB2DAsjVsQjl)
->     * [🎬 How to Learn Spanish in a Month - Language Learning Documentary](https://www.youtube.com/watch?v=aZke6Va7kJU&t=157s)
+>     * [🎬 How to Learn Spanish in a Month - Language Learning Documentary](https://www.youtube.com/watch?v=aZke6Va7kJU)
 >  <!--END_SECTION:activity-->
 >  </details>
 >
