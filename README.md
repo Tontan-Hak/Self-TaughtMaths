@@ -111,6 +111,8 @@
 ## 📑 Teaching and learning
 - [🚩 Uncommon Sense Teaching](https://www.coursera.org/learn/uncommon-sense-teaching)
 - [🚩 Uncommon Sense Teaching: Part 2, Building Community and Habits of Learning](https://www.coursera.org/learn/building-community-habits-of-learning)
+- [🚩 Uncommon Sense Teaching: Teaching Online](https://www.coursera.org/learn/teaching-online)
+- [🚩 Uncommon Sense Teaching Specialization](https://www.coursera.org/specializations/uncommon-sense-teaching-certificate)
 ##  🔍 Simulations and Open online source
 - [🌐 Phet Stimulation](https://phet.colorado.edu/en/simulations/filter?subjects=math&type=html,prototype)
 - [🌐 Geogebra](https://www.geogebra.org/u/tontanhak97)
@@ -169,6 +171,22 @@ Free and flexible textbooks and resources.
 - [📚 Statistics](https://drive.google.com/file/d/1yA678UGHrRN6L46v4KyP-SE1lwl9OrS4/view?usp=sharing)
 - [📚 Introduction to Business statistics](https://drive.google.com/file/d/19r2lxXOoRCZe1TK8gZGwuXYkGYt13hAX/view?usp=sharing)
 
+## Miscellaneous
+Just a few sites that don't fit into any of the other areas above
+
+- [Awesome Math](https://github.com/Tontan-Hak/awesome-math)
+- [Lecture 1: Probability and Counting | Statistics 110 (Harvard)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+- [MIT 18.650 Statistics for Applications, Fall 2016 (MIT)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
+- [3Blue1Brown](https://www.3blue1brown.com/)
+- [Oxford Mathematics](https://www.youtube.com/@OxfordMathematics)
+- [TED's Official Public Speaking Course](https://www.youtube.com/playlist?list=PLJicmE8fK0EhSSdarWwp8GKSYUnPd1u8o)
+- [MIT 6.0001 Introduction to Computer Science and Programming in Python, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
+- [Do you know the 5 love languages? Here’s what they are — and how to use them](https://ideas.ted.com/whats-your-favorite-persons-love-language-heres-how-to-tell-and-how-to-use-it/?utm_source=facebook.com&utm_medium=social&utm_content=2022-11-20&utm_campaign=social&fbclid=IwAR25owRAEi8vp_JEKpDOuZQnSFZGNypAvS3Ud9eFW-Z0j6WS0IUP99rqMkk)
+- [Tim Urban: Inside the mind of a master procrastinator | TED](https://www.youtube.com/watch?v=arj7oStGLkU)
+- [Introductory Calculus: Oxford Mathematics 1st Year Student Lecture](https://www.youtube.com/playlist?list=PL4d5ZtfQonW0A4VHeiY0gSkX1QEraaacE)
+- [Introduction to University Mathematics](https://www.youtube.com/playlist?list=PL4d5ZtfQonW1xKVEtYJd1iu9m52ATG7SV)
+- [Introduction to Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
+- [MIT 18.650 Statistics for Applications, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 # Advice
 * [Paul Graham](http://paulgraham.com/)
 * [Kevin Zhou](https://knzhou.github.io/?fbclid=IwAR3YuCDlUzAfwI3tEHD_TN0cv8BEGAHi0Nt9FWFiaENO8yQ0tXI8q4GM4UA)
