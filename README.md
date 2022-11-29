@@ -113,16 +113,6 @@
 - [🚩 Uncommon Sense Teaching: Part 2, Building Community and Habits of Learning](https://www.coursera.org/learn/building-community-habits-of-learning)
 - [🚩 Uncommon Sense Teaching: Teaching Online](https://www.coursera.org/learn/teaching-online)
 - [🚩 Uncommon Sense Teaching Specialization](https://www.coursera.org/specializations/uncommon-sense-teaching-certificate)
-##  🔍 Simulations and Open online source
-- [🌐 Phet Stimulation](https://phet.colorado.edu/en/simulations/filter?subjects=math&type=html,prototype)
-- [🌐 Geogebra](https://www.geogebra.org/u/tontanhak97)
-- [🌐 Khan Academy](https://www.khanacademy.org/teacher/dashboard)
-- [🌐 OpenStax](https://openstax.org/subjects)
-- [🌐 CK-12](https://www.ck12.org/my/dashboard-new/)
-- [🌐 MIT OpenCourseWare](https://ocw.mit.edu/)
-- [🌐 Better Explained](https://betterexplained.com/)
-- [🌐 Youcubed](https://www.youcubed.org/)
-- [🌐 Coursera](https://www.coursera.org/programs/placeholder-gzyqu?currentTab=CATALOG)
 
 # 🚩 MIT Math Subjects Overview
 - [Math Subjects Overview](https://math.mit.edu/academics/undergrad/subjects/)
@@ -170,6 +160,21 @@ Free and flexible textbooks and resources.
 - [📚 Introduction to statistics](https://drive.google.com/file/d/13GV3wH3b3CsR4iRYDSyMTYXtlanDkvCr/view?usp=sharing)
 - [📚 Statistics](https://drive.google.com/file/d/1yA678UGHrRN6L46v4KyP-SE1lwl9OrS4/view?usp=sharing)
 - [📚 Introduction to Business statistics](https://drive.google.com/file/d/19r2lxXOoRCZe1TK8gZGwuXYkGYt13hAX/view?usp=sharing)
+##  🔍 Simulations and Open online source
+ - [🌐 Phet Stimulation](https://phet.colorado.edu/en/simulations/filter?subjects=math&type=html,prototype)
+ - [🌐 Geogebra](https://www.geogebra.org/u/tontanhak97)
+ - [🌐 OpenStax](https://openstax.org/subjects)
+ - [🌐 Better Explained](https://betterexplained.com/)
+ - [🌐 Youcubed](https://www.youcubed.org/)
+ - [🌐 CK-12](https://www.ck12.org/my/dashboard-new/)
+ - [🌐 Khan Academy](https://www.khanacademy.org/teacher/dashboard)
+ - [🌐 edx](https://www.edx.org/)
+ - [🌐 Coursera](https://www.coursera.org/programs/placeholder-gzyqu?currentTab=CATALOG)
+ - [🌐 FreeCodeCamp](https://www.freecodecamp.org/learn/)  
+ - [🌐 W3school](https://www.w3schools.com/)
+ - [🌐 Codecademy](https://www.codecademy.com/catalog)
+ - [🌐 Linkedin Learning](https://www.linkedin.com/learning/?u=35754684)
+ - [🌐 MIT OpenCourseWare](https://ocw.mit.edu/)
 # Advice
 * [Paul Graham](http://paulgraham.com/)
 * [Kevin Zhou](https://knzhou.github.io/?fbclid=IwAR3YuCDlUzAfwI3tEHD_TN0cv8BEGAHi0Nt9FWFiaENO8yQ0tXI8q4GM4UA)
