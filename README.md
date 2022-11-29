@@ -5,7 +5,8 @@
 | **"There’s no miracle people. It just happens they got interested in this thing and they learned all this stuff. There’s just people.”** `Richard Feynman` |
 |:------------:|
 
-The open-source curriculum for learning Mathematics. Inspired by The [MIT challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/), this project aims to do the same for an undergraduate Mathematics degree. The following document outlines free online courses from top schools like MIT, UC Irvine, et al.. The groupings by Term are meant to pace and structure the course according to a typical Mathematics track at a college or university and is a work in progress. The focus is on the core courses; liberal arts or "GenEd" courses have been omitted.
+The open-source curriculum for learning Mathematics. Inspired by The [
+Open Source Society University](https://github.com/ossu) & [MIT challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/), this project aims to do the same for an undergraduate Mathematics degree. The following document outlines free online courses from top schools like MIT, UC Irvine, et al.. The groupings by Term are meant to pace and structure the course according to a typical Mathematics track at a college or university and is a work in progress. The focus is on the core courses; liberal arts or "GenEd" courses have been omitted.
 
 ## 🚀 Learning How to learn
 > <details>
