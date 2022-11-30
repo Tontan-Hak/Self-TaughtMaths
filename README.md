@@ -1,6 +1,27 @@
 # 📁 Introduction 
 ![](https://komarev.com/ghpvc/?username=Self-Study-Maths&color=brightgreen&label=VISITORS)
 
+# Contents
+
+- [About]()
+- [Learning Goals]()
+- [How this Repository is Structured]()
+- [Main Curriculum]()
+	- [Section 01 - Fundamentals of Data Science]()
+	- [Section 02 - Mathematics and Statistics for Data Science]()
+	- [Section 03 - Computing and Programming]()
+	- [Section 04 - Databases and Big Data]()
+	- [Section 05 - Artificial Intelligence]()
+- [Complementary courses]()
+	- [Soft Skills/Domain Knowledge]()
+- [Extra Bibliography]()
+	- [Mathematics Books]()
+	- [Books, articles and related documentation]()
+- [Important Notes]()
+- [References]()
+
+---
+# About
 The open-source curriculum for learning Mathematics. Inspired by The [
 Open Source Society University](https://github.com/ossu) & [MIT challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/), this project aims to do the same for an undergraduate Mathematics degree. The following document outlines free online courses from top schools like MIT, UC Irvine, et al.. The groupings by Term are meant to pace and structure the course according to a typical Mathematics track at a college or university and is a work in progress. The focus is on the core courses; liberal arts or "GenEd" courses have been omitted.
 
