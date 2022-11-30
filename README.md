@@ -10,8 +10,6 @@
 - [Path to a free self-taught education (OSSU)]()
 - [The Open-Source Mathematics Degree]()
 - [OpenStax]()
-- []()
-- [OpenStax]()
 	- [Algebra]()
 	- [Calculus]()
 	- [Statistic and Probability]()
