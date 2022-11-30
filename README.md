@@ -10,7 +10,7 @@
 - [Path to a free self-taught education (OSSU)]()
 - [The Open-Source Mathematics Degree]()
 - [OpenStax]()
-	- [Algebra]()
+	- [Algebra and Trigonometry]()
 	- [Calculus]()
 	- [Statistic and Probability]()
 - [Simulations and Open online source]()
@@ -270,7 +270,7 @@ Work in progress...
 
 # OpenStax
 Free and flexible textbooks and resources.
-### Algebra
+### Algebra and Trigonometry
 - [x]  [🎥 Algebra 1](https://www.youtube.com/playlist?list=PLSQl0a2vh4HDdl6PcjwZH2CkM5OoV6spg) 
 - [x]  [🎥 Algebra 2](https://www.youtube.com/playlist?list=PLSQl0a2vh4HCI6_FsC0_7Us0IwsZHQ7Tu)
 - [x]  [🎥 College Algebra](https://www.youtube.com/watch?v=LwCRRUa8yTU&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v&index=1)
