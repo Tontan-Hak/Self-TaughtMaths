@@ -8,14 +8,14 @@
 - [Bachelor of Science in Mathematics (MIT)](#Bachelor-of-Science-in-Mathematics-MIT)
 - [DEPARTMENT OF MATHEMATICS (RUPP)](#DEPARTMENT-OF-MATHEMATICS-RUPP)
 - [Path to a free self-taught education (OSSU)](#Path-to-a-free-self-taught-education-OSSU)
-- [The Open-Source Mathematics Degree]()
-- [OpenStax]()
-	- [Algebra and Trigonometry]()
-	- [Calculus]()
-	- [Statistic and Probability]()
-- [Simulations and Open online source]()
-- [Advice]()
-- [Miscellaneous]()
+- [The Open-Source Mathematics Degree](#The-Open-Source-Mathematics-Degree)
+- [OpenStax](#OpenStax)
+	- [Algebra and Trigonometry](#Algebra-and-Trigonometry)
+	- [Calculus](#Calculus)
+	- [Statistic and Probability](#Statistic-and-Probability)
+- [Simulations and Open online source](#Simulations-and-Open-online-source)
+- [Advice](#Advice)
+- [Miscellaneous](#Miscellaneous)
 
 ---
 # About
