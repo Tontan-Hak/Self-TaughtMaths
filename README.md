@@ -22,7 +22,7 @@
 The open-source curriculum for learning Mathematics. Inspired by The [
 Open Source Society University](https://github.com/ossu) & [MIT challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/), this project aims to do the same for an undergraduate Mathematics degree. The following document outlines free online courses from top schools like MIT, UC Irvine, et al.. The groupings by Term are meant to pace and structure the course according to a typical Mathematics track at a college or university and is a work in progress. The focus is on the core courses; liberal arts or "GenEd" courses have been omitted.
 
-# 🚀 Learning How to learn
+# Learning How to learn
 > <details>
 >  <summary> How to Get the Most Out of Studying</summary>
 >  <br/>
@@ -119,14 +119,14 @@ Open Source Society University](https://github.com/ossu) & [MIT challenge](https
 >  <!--END_SECTION:activity-->
 >   </details>
 
-### 🚩 Recommended Course 
+### Recommended Course 
 - [🔖 Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) 
 - [🔖 Learning how to learn for youth](https://www.coursera.org/learn/learning-how-to-learn-youth)  
 - [🔖 Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.coursera.org/learn/mindshift)
 - [🔖 Learn like a Pro: Science-Based Tools to Become Better at Anything](https://www.edx.org/course/llap?index=product&queryID=ec48b54cc22431a39eb1e7136358ec48&position=1)
 - [🔖 How to learn math: For students](https://www.edx.org/course/how-to-learn-math-for-students-2)
 
-### 📑 Teaching and learning
+### Teaching and learning
 - [🚩 Uncommon Sense Teaching](https://www.coursera.org/learn/uncommon-sense-teaching)
 - [🚩 Uncommon Sense Teaching: Part 2, Building Community and Habits of Learning](https://www.coursera.org/learn/building-community-habits-of-learning)
 - [🚩 Uncommon Sense Teaching: Teaching Online](https://www.coursera.org/learn/teaching-online)
@@ -156,7 +156,7 @@ The MIT Mathematics currently offers several online math courses through the [ed
 - [18.03Fx Fourier](https://www.edx.org/course/differential-equations-fourier-series-and-partial)
 - [18.03Lx Laplace](https://www.edx.org/course/transfer-functions-and-the-laplace-transform)
 - [18.02.2x Multivariable Calculus 1: Integrals NEW!](https://www.edx.org/course/multivariable-calculus-2-surfaces-and-integrals)
-# 🎓 DEPARTMENT OF MATHEMATICS (RUPP)
+# DEPARTMENT OF MATHEMATICS (RUPP)
 The degree of Bachelor of Science in Mathematics equips Cambodian students with the skills and competencies necessary to contribute to the development of Cambodia as teachers, statisticians, scientific managers, actuaries, system analysts and other professionals.
 
 - [Curriculum](http://www.rupp.edu.kh/fs/mathematics/?page=Curriculum)
@@ -164,7 +164,7 @@ The degree of Bachelor of Science in Mathematics equips Cambodian students with 
 - [AMS American Mathematical society](https://www.ams.org/open-math-notes?grad_level=3)
 - [Bachelor and Master document slide](https://drive.google.com/drive/folders/1VwNtaku-pZztEa01Ih4uGp2WAYv9ry4D?usp=share_link) | [T.Meas Len](https://www.facebook.com/photo?fbid=5004110462983127&set=a.140016552725900)
 - [Pre-master preparation](https://drive.google.com/drive/folders/1khl15eXoxKAf4nd4dHKDinImbCSf4Mji?usp=share_link)
-# 🧮 Path to a free self-taught education (OSSU)
+# Path to a free self-taught education (OSSU)
 - [OSSU Self taught maths](https://github.com/Tontan-Hak/self_taught_math)
 - [seft taught computer science](https://github.com/Tontan-Hak/seft-taught-computer-science)
 - [Self taught data scinece](https://github.com/Tontan-Hak/self-taught-data-science)
