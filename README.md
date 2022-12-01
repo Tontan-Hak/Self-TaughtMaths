@@ -308,7 +308,7 @@ Free and flexible textbooks and resources.
 - [📚 Introduction to statistics](https://drive.google.com/file/d/13GV3wH3b3CsR4iRYDSyMTYXtlanDkvCr/view?usp=sharing)
 - [📚 Statistics](https://drive.google.com/file/d/1yA678UGHrRN6L46v4KyP-SE1lwl9OrS4/view?usp=sharing)
 - [📚 Introduction to Business statistics](https://drive.google.com/file/d/19r2lxXOoRCZe1TK8gZGwuXYkGYt13hAX/view?usp=sharing)
-##  🔍 Simulations and Open online source
+## Simulations and Open online source
  - [🌐 Phet Stimulation](https://phet.colorado.edu/en/simulations/filter?subjects=math&type=html,prototype)
  - [🌐 Geogebra](https://www.geogebra.org/u/tontanhak97)
  - [🌐 OpenStax](https://openstax.org/subjects)
