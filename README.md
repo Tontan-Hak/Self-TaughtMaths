@@ -5,6 +5,8 @@
 
 - [About](#About)
 - [Learning How to learn](#Learning-How-to-learn)
+	- [Recommended Course](#Recommended-Course)
+	- [Teaching and learning](#Teaching-and-learning)
 - [Bachelor of Science in Mathematics (MIT)](#Bachelor-of-Science-in-Mathematics-MIT)
 - [DEPARTMENT OF MATHEMATICS (RUPP)](#DEPARTMENT-OF-MATHEMATICS-RUPP)
 - [Path to a free self-taught education (OSSU)](#Path-to-a-free-self-taught-education-OSSU)
