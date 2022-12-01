@@ -131,7 +131,7 @@ Open Source Society University](https://github.com/ossu) & [MIT challenge](https
 - [🚩 Uncommon Sense Teaching: Part 2, Building Community and Habits of Learning](https://www.coursera.org/learn/building-community-habits-of-learning)
 - [🚩 Uncommon Sense Teaching: Teaching Online](https://www.coursera.org/learn/teaching-online)
 - [🚩 Uncommon Sense Teaching Specialization](https://www.coursera.org/specializations/uncommon-sense-teaching-certificate)
-# 🎓Bachelor of Science in Mathematics (MIT)
+# Bachelor of Science in Mathematics (MIT)
 - [Department of Mathematics](http://catalog.mit.edu/schools/science/mathematics/#text)
 - [Math Subjects Overview](https://math.mit.edu/academics/undergrad/subjects/)
 - [Mathematics (Course 18)](http://catalog.mit.edu/degree-charts/mathematics-course-18/#generalmathematicstext)
