@@ -3,11 +3,11 @@
 
 # Contents
 
-- [About]()
-- [Learning How to learn]()
-- [Bachelor of Science in Mathematics (MIT)]()
-- [DEPARTMENT OF MATHEMATICS (RUPP)]()
-- [Path to a free self-taught education (OSSU)]()
+- [About](#About)
+- [Learning How to learn](#Learning-How-to-learn)
+- [Bachelor of Science in Mathematics (MIT)](#Bachelor-of-Science-in-Mathematics-(MIT))
+- [DEPARTMENT OF MATHEMATICS (RUPP)](#DEPARTMENT-OF-MATHEMATICS-(RUPP))
+- [Path to a free self-taught education (OSSU)](#Path-to-a-free-self-taught-education-(OSSU))
 - [The Open-Source Mathematics Degree]()
 - [OpenStax]()
 	- [Algebra and Trigonometry]()
