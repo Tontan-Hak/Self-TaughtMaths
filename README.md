@@ -8,7 +8,7 @@
 	- [Recommended Course](#Recommended-Course)
 	- [Teaching and learning](#Teaching-and-learning)
 - [Bachelor of Science in Mathematics (MIT)](#Bachelor-of-Science-in-Mathematics-MIT)
-- [DEPARTMENT OF MATHEMATICS (RUPP)](#DEPARTMENT-OF-MATHEMATICS-RUPP)
+- [Department of mathematics (RUPP)](#Department-of-mathematics-RUPP)
 - [Path to a free self-taught education (OSSU)](#Path-to-a-free-self-taught-education-OSSU)
 - [The Open-Source Mathematics Degree](#The-Open-Source-Mathematics-Degree)
 - [OpenStax](#OpenStax)
@@ -187,7 +187,7 @@ The MIT Mathematics currently offers several online math courses through the [ed
 </div>
 
 ---
-# DEPARTMENT OF MATHEMATICS (RUPP)
+# Department of mathematics (RUPP)
 The degree of Bachelor of Science in Mathematics equips Cambodian students with the skills and competencies necessary to contribute to the development of Cambodia as teachers, statisticians, scientific managers, actuaries, system analysts and other professionals.
 
 - [Curriculum](http://www.rupp.edu.kh/fs/mathematics/?page=Curriculum)
