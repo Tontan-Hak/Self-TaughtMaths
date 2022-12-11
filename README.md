@@ -1,6 +1,8 @@
 # 📁 Introduction 
 ![](https://komarev.com/ghpvc/?username=Self-Study-Maths&color=brightgreen&label=VISITORS)
-
+**Quote**
+| **"There’s no miracle people. It just happens they got interested in this thing and they learned all this stuff. There’s just people.”** `Richard Feynman` |
+|:------------:|
 # Contents
 
 - [About](#About)
@@ -454,7 +456,4 @@ Just a few sites that don't fit into any of the other areas above
 
 	💪 It should be one of our mission to improve everyday for the better
 	I am happy when I can improve myself just 1% everyday
-**Quote**
-| **"There’s no miracle people. It just happens they got interested in this thing and they learned all this stuff. There’s just people.”** `Richard Feynman` |
-|:------------:|
 
