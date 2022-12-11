@@ -1,4 +1,4 @@
-# 📁 Introduction 
+# 🚀 Self-taught education
 ![](https://komarev.com/ghpvc/?username=Self-Study-Maths&color=brightgreen&label=VISITORS)
 
 **Quote**
