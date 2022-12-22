@@ -5,7 +5,6 @@
 | **"There’s no miracle people. It just happens they got interested in this thing and they learned all this stuff. There’s just people.”** `Richard Feynman` |
 |:------------:|
 # Contents
-
 - [About](#About)
 - [Learning How to learn](#Learning-How-to-learn)
 	- [Recommended Course](#Recommended-Course)
