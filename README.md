@@ -454,5 +454,5 @@ Just a few sites that don't fit into any of the other areas above
 <!--END_SECTION:activity-->
 </details>
 
-	💪 It should be one of our mission to improve everyday for the better
-	I am happy when I can improve myself just 1% everyday
+	" If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is." 
+													- John von Neumann
