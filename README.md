@@ -154,6 +154,25 @@ Open Source Society University](https://github.com/ossu) & [MIT challenge](https
 </div>
 
 ---
+# Math prerequisites
+* [Arithmetics](https://www.khanacademy.org/math/arithmetic-home)
+* [Pre-algebra](https://www.khanacademy.org/math/pre-algebra)
+* [Algebra](https://www.khanacademy.org/math/algebra-home)
+* [Geometry](https://www.khanacademy.org/math/geometry-home)
+* [Pre-calculus](https://www.khanacademy.org/math/precalculus)
+* [Calculus 1](https://www.khanacademy.org/math/calculus-1)
+* [Calculus 2](https://www.khanacademy.org/math/calculus-2)
+* [Mathematics](https://www.youtube.com/playlist?list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v)
+
+##
+
+<div align="right">
+	
+[Go to the top](#Contents)
+	
+</div>
+
+---
 # Bachelor of Science in Mathematics (MIT)
 - [Department of Mathematics](http://catalog.mit.edu/schools/science/mathematics/#text)
 - [Math Subjects Overview](https://math.mit.edu/academics/undergrad/subjects/)
