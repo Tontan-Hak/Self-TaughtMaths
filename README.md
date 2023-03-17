@@ -352,9 +352,9 @@ Work in progress...
 # OpenStax
 Free and flexible textbooks and resources.
 ### Algebra and Trigonometry
-- [x]  [🎥 Algebra 1](https://www.youtube.com/playlist?list=PLSQl0a2vh4HDdl6PcjwZH2CkM5OoV6spg) 
-- [x]  [🎥 Algebra 2](https://www.youtube.com/playlist?list=PLSQl0a2vh4HCI6_FsC0_7Us0IwsZHQ7Tu)
-- [x]  [🎥 College Algebra](https://www.youtube.com/watch?v=LwCRRUa8yTU&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v&index=1)
+- [x]  [🎬 Algebra 1](https://www.youtube.com/playlist?list=PLSQl0a2vh4HDdl6PcjwZH2CkM5OoV6spg) 
+- [x]  [🎬 Algebra 2](https://www.youtube.com/playlist?list=PLSQl0a2vh4HCI6_FsC0_7Us0IwsZHQ7Tu)
+- [x]  [🎬 College Algebra](https://www.youtube.com/watch?v=LwCRRUa8yTU&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v&index=1)
 - [ ]  [📚 Algebra and Trigonometry](https://drive.google.com/file/d/1crH0SCVUB6BDQ2T4uw2snY4EBtJov0fH/view?usp=sharing)
 - [ ]  [📚 Algebra and Trigonometry 2e](https://drive.google.com/file/d/12evq2S9LLCABD7UYZJkCCpIj30aHL9Zc/view?usp=sharing)
 - [ ]  [📚 College Algebra](https://drive.google.com/file/d/1FAgy9CMvYAg00DLeeZd4MUTQCcbb50GE/view?usp=sharing)
@@ -366,11 +366,11 @@ Free and flexible textbooks and resources.
 - [ ]  [📚 Prealgebra 2e](https://drive.google.com/file/d/1IVE6fW9oDuaHviQEDWfRD-PhUc8i14LV/view?usp=sharing)
 
 ### Calculus
-   * [🎥 Calculus](https://www.youtube.com/playlist?list=PL19E79A0638C8D449)
-   * [🎥 Calculus 1](https://www.youtube.com/watch?v=HfACrKJ_Y2w)
-   * [🎥 Calculus 2](https://www.youtube.com/watch?v=7gigNsz4Oe8&list=RDLVHfACrKJ_Y2w&index=2)
-   * [🎥 Pre-Calculus](https://www.youtube.com/watch?v=eI4an8aSsgw&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v&index=2)
-   * [🎥 Calculus tutorial](https://www.youtube.com/playlist?list=PLybg94GvOJ9ELZEe9s2NXTKr41Yedbw7M)
+   * [🎬 Calculus](https://www.youtube.com/playlist?list=PL19E79A0638C8D449)
+   * [🎬 Calculus 1](https://www.youtube.com/watch?v=HfACrKJ_Y2w)
+   * [🎬 Calculus 2](https://www.youtube.com/watch?v=7gigNsz4Oe8&list=RDLVHfACrKJ_Y2w&index=2)
+   * [🎬 Pre-Calculus](https://www.youtube.com/watch?v=eI4an8aSsgw&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v&index=2)
+   * [🎬 Calculus tutorial](https://www.youtube.com/playlist?list=PLybg94GvOJ9ELZEe9s2NXTKr41Yedbw7M)
    * [📖 Calculus book](https://drive.google.com/file/d/1ZgpXmsO6gJPQuz-b3jCEARz7_eUodmmF/view?usp=sharing)
    * [📖 Introduction to Linear Algebra (Gilbert Strang)](https://drive.google.com/file/d/1SyLbvevTwhbOVGVFRJEZfOJiBZhfARa3/view?usp=sharing)
    * [📚 Calculus Volume 1](https://drive.google.com/file/d/1MH7Dnq-qgcooUxFr9ZjmBXU_0-M4Yu0W/view?usp=sharing)
@@ -380,12 +380,12 @@ Free and flexible textbooks and resources.
    * [📚 Precalculus 2e](https://drive.google.com/file/d/1d0h2sttuAV1fx9dVG5Ovx6zcB9BlCdsZ/view?usp=sharing)
 
 ### Statistic and Probability
-- [🎥 Statistics](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
-- [🎥 Probability](https://www.youtube.com/playlist?list=PLC58778F28211FA19)
-- [🎥 Random variables | Probability and Statistics](https://www.youtube.com/playlist?list=PLU5aQXLWR3_xDN0M2ZeZ_zHIia0e42_3O)
-- [🎥 Descriptive statistics | Probability and Statistics](https://www.youtube.com/playlist?list=PLU5aQXLWR3_yYS0ZYRA-5g5YSSYLNZ6Mc)
-- [🎥 Statistics 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
-- [🎥 Statistics for Application](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
+- [🎬 Statistics](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
+- [🎬 Probability](https://www.youtube.com/playlist?list=PLC58778F28211FA19)
+- [🎬 Random variables | Probability and Statistics](https://www.youtube.com/playlist?list=PLU5aQXLWR3_xDN0M2ZeZ_zHIia0e42_3O)
+- [🎬 Descriptive statistics | Probability and Statistics](https://www.youtube.com/playlist?list=PLU5aQXLWR3_yYS0ZYRA-5g5YSSYLNZ6Mc)
+- [🎬 Statistics 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+- [🎬 Statistics for Application](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 - [📚 Introduction to statistics](https://drive.google.com/file/d/13GV3wH3b3CsR4iRYDSyMTYXtlanDkvCr/view?usp=sharing)
 - [📚 Statistics](https://drive.google.com/file/d/1yA678UGHrRN6L46v4KyP-SE1lwl9OrS4/view?usp=sharing)
 - [📚 Introduction to Business statistics](https://drive.google.com/file/d/19r2lxXOoRCZe1TK8gZGwuXYkGYt13hAX/view?usp=sharing)
