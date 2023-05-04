@@ -427,6 +427,7 @@ Free and flexible textbooks and resources.
 # Advice
 * [Paul Graham](http://paulgraham.com/)
 * [Kevin Zhou](https://knzhou.github.io/?fbclid=IwAR3YuCDlUzAfwI3tEHD_TN0cv8BEGAHi0Nt9FWFiaENO8yQ0tXI8q4GM4UA)
+* [Self Study Projects by DIEGO VERA](https://www.diegovera.org/projects)
 ## Miscellaneous
 Just a few sites that don't fit into any of the other areas above
 
