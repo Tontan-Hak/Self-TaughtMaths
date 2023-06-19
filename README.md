@@ -183,7 +183,7 @@ Open Source Society University](https://github.com/ossu) & [MIT challenge](https
 ### Content 
 - [Course 18: Mathematics Fall 2022](http://student.mit.edu/catalog/m18a.html)
 - [Math Major Roadmaps](https://math.mit.edu/academics/undergrad/roadmaps.html)
-### Online Math classes
+# Online Math classes
 The MIT Mathematics currently offers several online math courses through the [edX platform](https://www.edx.org/). Right now, we have a series of 3 calculus courses equivalent to 18.01 on campus, and a series of 4 differential equations courses, equivalent to 18.03, and a course on the Laplace transform, which is equivalent to 18.031 on campus. Each courses is offered as a synchronous course with deadlines and support from TAs on the discussion forum.
 
 - [18.01.1x Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation)
