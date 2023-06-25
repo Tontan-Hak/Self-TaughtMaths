@@ -349,9 +349,8 @@ Work in progress...
 ---
 # OpenStax
 Free and flexible textbooks and resources.
-### Algebra and Trigonometry
 <details>
-  <summary> tjrjjj</summary>
+  <summary> Algebra and Trigonometry </summary>
   <br/>
 	
  <!--START_SECTION:activity-->
@@ -370,7 +369,11 @@ Free and flexible textbooks and resources.
   <!--END_SECTION:activity-->
    </details>
    
-### Calculus
+<details>
+  <summary> Calculus </summary>
+  <br/>
+	
+ <!--START_SECTION:activity-->
    * [🎬 Calculus](https://www.youtube.com/playlist?list=PL19E79A0638C8D449)
    * [🎬 Calculus 1](https://www.youtube.com/watch?v=HfACrKJ_Y2w)
    * [🎬 Calculus 2](https://www.youtube.com/watch?v=7gigNsz4Oe8&list=RDLVHfACrKJ_Y2w&index=2)
@@ -383,8 +386,14 @@ Free and flexible textbooks and resources.
    * [📚 Calculus Volume 3](https://drive.google.com/file/d/1DKREnzIaSKgHijEs5_QTlWD1AHiQQsG7/view?usp=sharing)
    * [📚 Precalculus](https://drive.google.com/file/d/12RTIFdUOkmp3PaiI4v_H7I0toHSHIwMd/view?usp=sharing)
    * [📚 Precalculus 2e](https://drive.google.com/file/d/1d0h2sttuAV1fx9dVG5Ovx6zcB9BlCdsZ/view?usp=sharing)
-
-### Statistic and Probability
+<!--END_SECTION:activity-->
+</details>
+   
+<details>
+  <summary> Statistic and Probability </summary>
+  <br/>
+	
+ <!--START_SECTION:activity-->
 - [🎬 Statistics](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
 - [🎬 Probability](https://www.youtube.com/playlist?list=PLC58778F28211FA19)
 - [🎬 Random variables | Probability and Statistics](https://www.youtube.com/playlist?list=PLU5aQXLWR3_xDN0M2ZeZ_zHIia0e42_3O)
@@ -394,7 +403,9 @@ Free and flexible textbooks and resources.
 - [📚 Introduction to statistics](https://drive.google.com/file/d/13GV3wH3b3CsR4iRYDSyMTYXtlanDkvCr/view?usp=sharing)
 - [📚 Statistics](https://drive.google.com/file/d/1yA678UGHrRN6L46v4KyP-SE1lwl9OrS4/view?usp=sharing)
 - [📚 Introduction to Business statistics](https://drive.google.com/file/d/19r2lxXOoRCZe1TK8gZGwuXYkGYt13hAX/view?usp=sharing)
-
+  <!--END_SECTION:activity-->
+   </details>
+   
 ##
 
 <div align="right">
