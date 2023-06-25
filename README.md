@@ -350,6 +350,11 @@ Work in progress...
 # OpenStax
 Free and flexible textbooks and resources.
 ### Algebra and Trigonometry
+<details>
+  <summary> tjrjjj</summary>
+  <br/>
+	
+ <!--START_SECTION:activity-->
 - [x]  [🎬 Algebra 1](https://www.youtube.com/playlist?list=PLSQl0a2vh4HDdl6PcjwZH2CkM5OoV6spg) 
 - [x]  [🎬 Algebra 2](https://www.youtube.com/playlist?list=PLSQl0a2vh4HCI6_FsC0_7Us0IwsZHQ7Tu)
 - [x]  [🎬 College Algebra](https://www.youtube.com/watch?v=LwCRRUa8yTU&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v&index=1)
@@ -362,7 +367,9 @@ Free and flexible textbooks and resources.
 - [ ]  [📚 Elementary Algebra 2e](https://drive.google.com/file/d/1KSFx52crOPC0TrMRYfPg0-rrHgUrSteo/view?usp=sharing)
 - [ ]  [📚 Intermediate Algebra 2e](https://drive.google.com/file/d/1rS1jlvU6uN2qpGV4tuxnU3l9vFjBDO68/view?usp=sharing)
 - [ ]  [📚 Prealgebra 2e](https://drive.google.com/file/d/1IVE6fW9oDuaHviQEDWfRD-PhUc8i14LV/view?usp=sharing)
-
+  <!--END_SECTION:activity-->
+   </details>
+   
 ### Calculus
    * [🎬 Calculus](https://www.youtube.com/playlist?list=PL19E79A0638C8D449)
    * [🎬 Calculus 1](https://www.youtube.com/watch?v=HfACrKJ_Y2w)
