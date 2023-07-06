@@ -471,6 +471,17 @@ Just a few sites that don't fit into any of the other areas above
 	
 </div>
 
+<details>
+  <summary>⏳ My mission</summary>
+  <br/>
+
+<!--START_SECTION:activity-->
+	To provide the self-taught educatioin
+<!--END_SECTION:activity-->
+</details>
+
+	" If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is." 
+													- John von Neumann
 ---
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
@@ -483,14 +494,4 @@ Just a few sites that don't fit into any of the other areas above
 <a href="https://github.com/Tontan-Hak/Self-Study-Maths/blob/main/license"><img src="https://img.shields.io/github/license/Tontan-Hak/Self-Study-Maths?color=2b9348" alt="License Badge"/></a>
 
 -----
-<details>
-  <summary>⏳ My mission</summary>
-  <br/>
 
-<!--START_SECTION:activity-->
-	To provide the self-taught educatioin
-<!--END_SECTION:activity-->
-</details>
-
-	" If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is." 
-													- John von Neumann
