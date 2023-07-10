@@ -462,6 +462,7 @@ Just a few sites that don't fit into any of the other areas above
 - [MIT 18.650 Statistics for Applications, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 - [Introduction To Metric Spaces](https://ocw.mit.edu/courses/18-s190-introduction-to-metric-spaces-january-iap-2023/)
 - [120 Free Online Math Courses from the World’s Top Universities](https://www.freecodecamp.org/news/math-online-courses-from-worlds-top-universities/?fbclid=IwAR3aTU8Hr8W45dZaQWJvnJ1fxNJ217NhYMU5QgCu-im7xcS7Z4yQUWx4MBg)
+- [How To Self-Study Math](https://www.youtube.com/watch?v=fb_v5Bc8PSk)
 
 ##
 
