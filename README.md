@@ -42,11 +42,11 @@ Open Source Society University](https://github.com/ossu) & [MIT challenge](https
 >	
 > <!--START_SECTION:activity-->	
 > - [🎬 How to Get the Most Out of Studying](https://www.youtube.com/watch?v=htv6eap1-_M&list=PL85708E6EA236E3DB&index=1)
->    * [Part 1 of 5, "Beliefs That Make You Fail... Or Succeed"](https://www.youtube.com/watch?v=RH95h36NChI&list=PL85708E6EA236E3DB&index=2) 
->    * [Part 2 of 5, "What Students Should Know About How People Learn"](https://www.youtube.com/watch?v=9O7y7XEC66M&list=PL85708E6EA236E3DB&index=3) 
->    * [Part 3 of 5, "Cognitive Principles for Optimizing Learning"](https://www.youtube.com/watch?v=1xeHh5DnCIw&list=PL85708E6EA236E3DB&index=4) 
->    * [Part 4 of 5, "Putting Principles for Learning into Practice"](https://www.youtube.com/watch?v=E9GrOxhYZdQ&list=PL85708E6EA236E3DB&index=5) 
->    * [Part 5 of 5, "I Blew the Exam, Now What?"](https://www.youtube.com/watch?v=-QVRiMkdRsU&list=PL85708E6EA236E3DB&index=6) 		
+>    * [▶️ Part 1 of 5, "Beliefs That Make You Fail... Or Succeed"](https://www.youtube.com/watch?v=RH95h36NChI&list=PL85708E6EA236E3DB&index=2) 
+>    * [▶️ Part 2 of 5, "What Students Should Know About How People Learn"](https://www.youtube.com/watch?v=9O7y7XEC66M&list=PL85708E6EA236E3DB&index=3) 
+>    * [▶️ Part 3 of 5, "Cognitive Principles for Optimizing Learning"](https://www.youtube.com/watch?v=1xeHh5DnCIw&list=PL85708E6EA236E3DB&index=4) 
+>    * [▶️ Part 4 of 5, "Putting Principles for Learning into Practice"](https://www.youtube.com/watch?v=E9GrOxhYZdQ&list=PL85708E6EA236E3DB&index=5) 
+>    * [▶️ Part 5 of 5, "I Blew the Exam, Now What?"](https://www.youtube.com/watch?v=-QVRiMkdRsU&list=PL85708E6EA236E3DB&index=6) 		
 >  <!--END_SECTION:activity-->
 >  </details>
 >	
